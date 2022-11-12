@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "asset_ticker": "APPL",
+    "asset_name": "Apple Inc",
+    "asset_logo_url": "https://cdn-icons-png.flaticon.com/128/0/747.png",
+    "current_price": 100.16,
+    "predicted_price": 102.78
+  },
+  {
+    "id": 2,
+    "asset_ticker": "SSNLF",
+    "asset_name": "Samsung Electronics Co., Ltd.",
+    "asset_logo_url": "https://cdn-icons-png.flaticon.com/512/882/882747.png",
+    "current_price": 100.1,
+    "predicted_price": 99.57
+  }
+]
